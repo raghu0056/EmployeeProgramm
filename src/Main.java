@@ -9,9 +9,9 @@ public class Main {
         System.out.println(n);
         if(n<10)
         {
-            System.out.println("employee is present");
+            System.out.println("Employee is present");
         } else {
-            System.out.println("employee is absent");
+            System.out.println("Employee is absent");
         }
 
     }
